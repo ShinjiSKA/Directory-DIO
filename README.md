@@ -1,1 +1,2 @@
-# Directory-DIO
+# Directory DIO
+Exercícios de Criar diretorios, mover e criar.
